@@ -1,0 +1,23 @@
+.sum:hover .detail {
+    display: block;
+}
+
+.ant-modal-content {
+    border-radius: 24px !important;
+}
+
+.ant-modal-close-x {
+    background-color: #bfc0cb61 !important;
+    color: #bfc0cb;
+    font-weight: 900;
+    font-size: 14px !important;
+    border-radius: 100%;
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+    height: 24px;
+    width: 24px;
+    padding: 0;
+    /* position: absolute;
+    top: 16px; */
+}
